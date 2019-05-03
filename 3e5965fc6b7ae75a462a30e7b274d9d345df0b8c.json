@@ -1,0 +1,17 @@
+{
+    "deflections": {
+        "AX": null,
+        "CDD": null,
+        "H1": null,
+        "H2": null,
+        "L1": null,
+        "L2": null
+    },
+    "gains": {},
+    "spectrometer": {
+        "extraction_lens": 24.9989,
+        "ysymmetry": -1.00104,
+        "zfocus": 50.0994,
+        "zsymmetry": -20.4176
+    }
+}
