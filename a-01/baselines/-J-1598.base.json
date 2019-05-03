@@ -1,39 +1,73 @@
 {
     "AX": {
-        "error": 0.05629103221413427,
+        "error": 0.0037476802371854785,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": 0.00023519072706727051
+        "fit": "Average",
+        "fn": 172,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            128,
+            1,
+            163,
+            69,
+            106,
+            107,
+            144,
+            159
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": -0.0014410224805540691
     },
     "CDD": {
-        "error": 4.3574072654096206e-05,
+        "error": 3.2478196170357935e-06,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 10,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
+        "fit": "Average",
+        "fn": 180,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
         "value": 1.122834364650771e-05
     },
     "H1": {
-        "error": 0.11991017661128893,
+        "error": 0.008242397520822934,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": 0.009193499666551159
+        "fit": "Average",
+        "fn": 174,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            163,
+            79,
+            18,
+            150,
+            22,
+            28
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.011529999507671874
     },
     "H2": {
         "error": 0.15658954190261815,
@@ -48,27 +82,54 @@
         "value": -0.0035856644370647296
     },
     "L1": {
-        "error": 0.15266086518486566,
+        "error": 0.010929528721705451,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": -0.04785388998441502
+        "fit": "Average",
+        "fn": 177,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            170,
+            155,
+            111
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": -0.04501386879782829
     },
     "L2": {
-        "error": 0.1409927883355918,
+        "error": 0.00911087712925471,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": 0.024892012054462814
+        "fit": "Average",
+        "fn": 170,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            36,
+            37,
+            11,
+            75,
+            48,
+            53,
+            57,
+            153,
+            93,
+            30
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.02705656459198936
     }
 }

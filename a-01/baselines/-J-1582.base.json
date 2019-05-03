@@ -1,39 +1,73 @@
 {
     "AX": {
-        "error": 0.053550660351302404,
+        "error": 0.003758941087314511,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": 0.0081615010817283
+        "fit": "Average",
+        "fn": 175,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            103,
+            123,
+            139,
+            45,
+            47
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.00901468919032985
     },
     "CDD": {
-        "error": 4.2218743007885044e-05,
+        "error": 3.1467993096741633e-06,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 10,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
+        "fit": "Average",
+        "fn": 180,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
         "value": 1.0364624904468655e-05
     },
     "H1": {
-        "error": 0.12915578633711533,
+        "error": 0.008213035631036201,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": -0.031899365613288766
+        "fit": "Average",
+        "fn": 171,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            33,
+            3,
+            5,
+            169,
+            106,
+            77,
+            19,
+            87,
+            153
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": -0.03404925266493177
     },
     "H2": {
         "error": 0.13045952518216214,
@@ -48,27 +82,54 @@
         "value": 0.2387661834868292
     },
     "L1": {
-        "error": 0.15578115924088898,
+        "error": 0.011239175187268285,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": -0.08541310065193101
+        "fit": "Average",
+        "fn": 177,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            51,
+            4,
+            91
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": -0.08277952014258141
     },
     "L2": {
-        "error": 0.14038223147289391,
+        "error": 0.00895787996263907,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": -0.015008369469271404
+        "fit": "Average",
+        "fn": 170,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            160,
+            133,
+            165,
+            106,
+            76,
+            17,
+            18,
+            52,
+            87,
+            95
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": -0.016223458560382237
     }
 }

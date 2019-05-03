@@ -8,19 +8,41 @@
             "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average",
+        "fit": "Average",
+        "fn": 171,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            64,
+            37,
+            167,
+            17,
+            83,
+            116,
+            55,
+            121,
+            158
+        ],
+        "reviewed": true,
+        "user_excluded": [],
         "value": -0.0015548961085171374
     },
     "CDD": {
         "error": 3.6490621423030883e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 10,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average",
+        "fit": "Average",
+        "fn": 180,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
         "value": 1.295578113058582e-05
     },
     "H1": {
@@ -32,7 +54,22 @@
             "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average",
+        "fit": "Average",
+        "fn": 172,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            71,
+            76,
+            173,
+            14,
+            174,
+            16,
+            48,
+            175
+        ],
+        "reviewed": true,
+        "user_excluded": [],
         "value": 0.007313506959309411
     },
     "H2": {
@@ -56,7 +93,22 @@
             "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average",
+        "fit": "Average",
+        "fn": 172,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            130,
+            39,
+            40,
+            171,
+            17,
+            21,
+            151,
+            159
+        ],
+        "reviewed": true,
+        "user_excluded": [],
         "value": -0.04764231792001357
     },
     "L2": {
@@ -68,7 +120,22 @@
             "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average",
+        "fit": "Average",
+        "fn": 172,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            3,
+            166,
+            167,
+            105,
+            172,
+            143,
+            17,
+            27
+        ],
+        "reviewed": true,
+        "user_excluded": [],
         "value": 0.0035319078275744347
     }
 }

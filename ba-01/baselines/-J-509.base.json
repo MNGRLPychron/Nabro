@@ -1,39 +1,74 @@
 {
     "AX": {
-        "error": 0.05707009772209158,
+        "error": 0.003942902431591328,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": 0.0007482854722184129
+        "fit": "Average",
+        "fn": 173,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            39,
+            7,
+            138,
+            48,
+            113,
+            150,
+            89
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": -0.00017723696615218557
     },
     "CDD": {
-        "error": 3.397827997520371e-05,
+        "error": 2.5325914594358456e-06,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 10,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
+        "fit": "Average",
+        "fn": 180,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
         "value": 7.773468678351491e-06
     },
     "H1": {
-        "error": 0.1379905106770682,
+        "error": 0.00927374798686934,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": -0.0024349130340851842
+        "fit": "Average",
+        "fn": 172,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            135,
+            11,
+            75,
+            141,
+            83,
+            151,
+            27,
+            95
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 8.426584319623058e-05
     },
     "H2": {
         "error": 0.13547494803757884,
@@ -48,27 +83,52 @@
         "value": 0.005761134240472327
     },
     "L1": {
-        "error": 0.15606586901579816,
+        "error": 0.010750408129024235,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": -0.06078072788206757
+        "fit": "Average",
+        "fn": 172,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            0,
+            35,
+            107,
+            87,
+            26,
+            125,
+            158,
+            63
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": -0.052632069364758644
     },
     "L2": {
-        "error": 0.14008586848299515,
+        "error": 0.009795101906099245,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": 0.019059979891042328
+        "fit": "Average",
+        "fn": 177,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            76,
+            156,
+            158
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.022421423299764258
     }
 }
