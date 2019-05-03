@@ -1,39 +1,74 @@
 {
     "AX": {
-        "error": 0.05747451354969638,
+        "error": 0.0036453248472294334,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": -0.001867054675434095
+        "fit": "Average",
+        "fn": 170,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            96,
+            131,
+            42,
+            81,
+            179,
+            88,
+            121,
+            152,
+            27,
+            95
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": -0.0054324893208960185
     },
     "CDD": {
-        "error": 4.175419763041623e-05,
+        "error": 3.112174141585711e-06,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 10,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
+        "fit": "Average",
+        "fn": 180,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
         "value": 1.2092062388546764e-05
     },
     "H1": {
-        "error": 0.12592730531058738,
+        "error": 0.008832378143135955,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": -0.02421560065704398
+        "fit": "Average",
+        "fn": 175,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            96,
+            104,
+            138,
+            3,
+            160
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": -0.026263739825226368
     },
     "H2": {
         "error": 0.14703473424510574,
@@ -48,27 +83,53 @@
         "value": 0.24659403186006884
     },
     "L1": {
-        "error": 0.17262398177769694,
+        "error": 0.012150619622864317,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": -0.07073725755358787
+        "fit": "Average",
+        "fn": 175,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            26,
+            108,
+            117,
+            157,
+            39
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": -0.05923715297165992
     },
     "L2": {
-        "error": 0.13726308794359143,
+        "error": 0.009454131941028216,
         "error_type": "SD",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 1,
+            "std_devs": 2,
             "use_standard_deviation_filtering": false
         },
-        "fit": "average_SEM",
-        "value": 0.00313056813320145
+        "fit": "Average",
+        "fn": 173,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            34,
+            72,
+            49,
+            19,
+            23,
+            25,
+            91
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.0014648038525177391
     }
 }
