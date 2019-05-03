@@ -9,18 +9,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "Average",
-        "fn": 115,
+        "fn": 120,
         "include_baseline_error": false,
         "n": 120,
-        "outlier_excluded": [
-            80,
-            26,
-            58,
-            108,
-            23
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": -0.022153731719995646
     },
     "CDD": {
@@ -33,14 +27,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "Average",
-        "fn": 119,
+        "fn": 120,
         "include_baseline_error": false,
         "n": 120,
-        "outlier_excluded": [
-            70
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.0
     },
     "H1": {
@@ -53,22 +45,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "Average",
-        "fn": 111,
+        "fn": 120,
         "include_baseline_error": false,
         "n": 120,
-        "outlier_excluded": [
-            0,
-            98,
-            68,
-            73,
-            10,
-            107,
-            77,
-            51,
-            21
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.04583432971969717
     },
     "H2": {
@@ -93,17 +75,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "Average",
-        "fn": 116,
+        "fn": 120,
         "include_baseline_error": false,
         "n": 120,
-        "outlier_excluded": [
-            72,
-            58,
-            20,
-            76
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": -0.16329781319705192
     },
     "L2": {
@@ -116,19 +93,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "Average",
-        "fn": 114,
+        "fn": 120,
         "include_baseline_error": false,
         "n": 120,
-        "outlier_excluded": [
-            106,
-            12,
-            77,
-            25,
-            92,
-            63
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.006123368842772355
     }
 }
