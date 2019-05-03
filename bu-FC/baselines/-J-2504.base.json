@@ -13,9 +13,9 @@
         "fn": 180,
         "include_baseline_error": false,
         "n": 180,
-        "outlier_excluded": [],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 1.0364624904468655e-05
     },
     "H1": {
@@ -28,17 +28,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "Average",
-        "fn": 86,
+        "fn": 90,
         "include_baseline_error": false,
         "n": 90,
-        "outlier_excluded": [
-            16,
-            80,
-            26,
-            45
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": -0.010491402441402897
     },
     "H2": {
@@ -63,16 +58,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "Average",
-        "fn": 87,
+        "fn": 90,
         "include_baseline_error": false,
         "n": 90,
-        "outlier_excluded": [
-            80,
-            73,
-            63
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": -0.05138938176785542
     },
     "L2": {
@@ -85,17 +76,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "Average",
-        "fn": 86,
+        "fn": 90,
         "include_baseline_error": false,
         "n": 90,
-        "outlier_excluded": [
-            9,
-            59,
-            4,
-            54
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.006595955992684879
     }
 }
