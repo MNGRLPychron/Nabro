@@ -1,0 +1,74 @@
+{
+    "AX": {
+        "error": 0.010414777460260307,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "average",
+        "value": -0.022063148583301568
+    },
+    "CDD": {
+        "error": 0.0,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "average",
+        "value": 0.0
+    },
+    "H1": {
+        "error": 0.010406088263844782,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "average",
+        "value": 0.052250007054106776
+    },
+    "H2": {
+        "error": 0.009891523765313659,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "average",
+        "value": -0.06553446242569722
+    },
+    "L1": {
+        "error": 0.011506676682339057,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "average",
+        "value": -0.1698816662781641
+    },
+    "L2": {
+        "error": 0.010322835985610375,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "average",
+        "value": -0.019308314877481938
+    }
+}

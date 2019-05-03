@@ -1,0 +1,74 @@
+{
+    "AX": {
+        "error": 0.06157518718543102,
+        "error_type": "SD",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 1,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "average_SEM",
+        "value": -0.010486749255020793
+    },
+    "CDD": {
+        "error": 3.659055414416811e-05,
+        "error_type": "SD",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 1,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "average_SEM",
+        "value": 9.069046791410074e-06
+    },
+    "H1": {
+        "error": 0.12701058706864846,
+        "error_type": "SD",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 1,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "average_SEM",
+        "value": 0.006096910306465967
+    },
+    "H2": {
+        "error": 0.14561153272953398,
+        "error_type": "SD",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 1,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "average_SEM",
+        "value": 0.25925474846056507
+    },
+    "L1": {
+        "error": 0.1460801577573866,
+        "error_type": "SD",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 1,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "average_SEM",
+        "value": -0.006311636854661629
+    },
+    "L2": {
+        "error": 0.11679351393798644,
+        "error_type": "SD",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 1,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "average_SEM",
+        "value": 0.058430119672023766
+    }
+}

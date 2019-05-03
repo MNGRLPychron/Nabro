@@ -1,0 +1,74 @@
+{
+    "Ar35": {
+        "error": 0.003055074130642877,
+        "error_type": "SD",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 1,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "linear",
+        "value": 0.0611673113498366
+    },
+    "Ar36": {
+        "error": 0.15715348283819894,
+        "error_type": "SD",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 1,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "parabolic",
+        "value": 45.385323474675396
+    },
+    "Ar37": {
+        "error": 0.1478124269197564,
+        "error_type": "SD",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 1,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "linear",
+        "value": -0.06479144671611042
+    },
+    "Ar38": {
+        "error": 0.0669512808920032,
+        "error_type": "SD",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 1,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "linear",
+        "value": 8.412818871074403
+    },
+    "Ar39": {
+        "error": 0.13363400347366072,
+        "error_type": "SD",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 1,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "parabolic",
+        "value": -0.22438189421952462
+    },
+    "Ar40": {
+        "error": 2.5197814450356915,
+        "error_type": "SD",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 1,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "parabolic",
+        "value": 13268.904471934062
+    }
+}
