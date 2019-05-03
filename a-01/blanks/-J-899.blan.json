@@ -1,63 +1,73 @@
 {
     "Ar36": {
-        "error": 0.0,
+        "error": 0.000188859559599934,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Bracketing Interpolate",
         "references": [
             {
-                "exclude": false,
-                "record_id": ""
+                "exclude": "ok",
+                "record_id": "ba-01-J-183",
+                "uuid": "ea548bee-234b-4055-a239-f87b0e738e80"
             }
         ],
-        "value": 0.0
+        "reviewed": true,
+        "value": 0.001586625908304171
     },
     "Ar37": {
-        "error": 0.0,
+        "error": 0.013275497355655799,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Bracketing Interpolate",
         "references": [
             {
-                "exclude": false,
-                "record_id": ""
+                "exclude": "ok",
+                "record_id": "ba-01-J-183",
+                "uuid": "ea548bee-234b-4055-a239-f87b0e738e80"
             }
         ],
-        "value": 0.0
+        "reviewed": true,
+        "value": 0.021507523950035953
     },
     "Ar38": {
-        "error": 0.0,
+        "error": 0.013884528122698577,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Bracketing Interpolate",
         "references": [
             {
-                "exclude": false,
-                "record_id": ""
+                "exclude": "ok",
+                "record_id": "ba-01-J-183",
+                "uuid": "ea548bee-234b-4055-a239-f87b0e738e80"
             }
         ],
-        "value": 0.0
+        "reviewed": true,
+        "value": 0.0012504186985445032
     },
     "Ar39": {
-        "error": 0.0,
+        "error": 0.018641098780618957,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Bracketing Interpolate",
         "references": [
             {
-                "exclude": false,
-                "record_id": ""
+                "exclude": "ok",
+                "record_id": "ba-01-J-183",
+                "uuid": "ea548bee-234b-4055-a239-f87b0e738e80"
             }
         ],
-        "value": 0.0
+        "reviewed": true,
+        "value": 0.021010682788463374
     },
     "Ar40": {
-        "error": 0.0,
+        "error": 0.022472819144839437,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Bracketing Interpolate",
         "references": [
             {
-                "exclude": false,
-                "record_id": ""
+                "exclude": "ok",
+                "record_id": "ba-01-J-183",
+                "uuid": "ea548bee-234b-4055-a239-f87b0e738e80"
             }
         ],
-        "value": 0.0
+        "reviewed": true,
+        "value": 0.30748458287523533
     },
     "Ar41": {
         "error": 0.0,
